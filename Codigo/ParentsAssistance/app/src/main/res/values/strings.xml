@@ -12,12 +12,5 @@
     <string name="title_activity_disciplina">Cadastro de disciplina</string>
     <string name="name">Nome</string>
     <string name="sair">Sair</string>
-    <string name="user">Usuário</string>
-    <string name="create">Cadastrar</string>
-    <string name="invalidLogin">Login e / ou senha inválidos</string>
-    <string name="userCreated">Usuário cadastrado com sucesso</string>
-    <string name="title_activity_splash">SplashActivity</string>
-    <string name="campoObrigatorio">Campo Obrigatório</string>
-    <string name="title_activity_cad_login">CadLoginActivity</string>
-    <string name="title_activity_principal">PrincipalActivity</string>
+
 </resources>

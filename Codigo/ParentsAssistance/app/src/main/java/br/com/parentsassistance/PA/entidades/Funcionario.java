@@ -4,7 +4,7 @@ package br.com.parentsassistance.PA.entidades;
  * Created by Robinson on 09/12/2015.
  */
 public class Funcionario {
-    public class Aluno {
+
         private long id;
         private String matriculafuncionario;
         private String nomefuncionario;
@@ -14,10 +14,10 @@ public class Funcionario {
         private String email;
         private String senha;
 
-        public Aluno() {
+        public Funcionario() {
         }
 
-        public Aluno(long id, String matriculafuncionario, String nomefuncionario, String cpf, String funcao, String setor, String email, String senha) {
+        public Funcionario(long id, String matriculafuncionario, String nomefuncionario, String cpf, String funcao, String setor, String email, String senha) {
             this.id = id;
             this.matriculafuncionario = matriculafuncionario;
             this.nomefuncionario = nomefuncionario;
@@ -110,4 +110,3 @@ public class Funcionario {
         }
 
     }
-}
