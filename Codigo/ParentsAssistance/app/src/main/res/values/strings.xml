@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">ParentsAssistance</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="logindofuncionario">logar</string>
+    <string name="logindoaluno">logar</string>
+    <string name="logindoresponsavelpeloaluno">logar</string>
+    <string name="password">Senha</string>
+    <string name="title_activity_cadastrarresponsavelpeloaluno">cadastro de responsavel pelo aluno</string>
+    <string name="title_activity_cadastraraluno">Cadastro de alunoo</string>
+    <string name="title_activity_cadastrarfuncionario">Cadastro de funcionario</string>
+    <string name="title_activity_disciplina">Cadastro de disciplina</string>
+    <string name="name">Nome</string>
+    <string name="sair">Sair</string>
+    <string name="user">Usuário</string>
+    <string name="create">Cadastrar</string>
+    <string name="invalidLogin">Login e / ou senha inválidos</string>
+    <string name="userCreated">Usuário cadastrado com sucesso</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="campoObrigatorio">Campo Obrigatório</string>
+    <string name="title_activity_cad_login">CadLoginActivity</string>
+    <string name="title_activity_principal">PrincipalActivity</string>
+</resources>

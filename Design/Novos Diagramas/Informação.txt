@@ -1,0 +1,1 @@
+Arquivo deve ser aberto com o StarUML.
