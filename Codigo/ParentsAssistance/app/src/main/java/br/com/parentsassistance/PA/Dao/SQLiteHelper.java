@@ -15,7 +15,7 @@ public class SQLiteHelper extends SQLiteOpenHelper {
     private String[] scriptsSQLCreate;
     private String scriptsSQLDelete;
 
-    public SQLiteHelper(Context context,  String nomeBanco, int versaoBanco, String[] scriptsSQLCreate, String scriptsSQLDelete) {
+    public SQLiteHelper(Context context,  String nomeBanco, String versaoBanco, String[] scriptsSQLCreate, String scriptsSQLDelete) {
 
         super(context, nomeBanco, null, versaoBanco);
 

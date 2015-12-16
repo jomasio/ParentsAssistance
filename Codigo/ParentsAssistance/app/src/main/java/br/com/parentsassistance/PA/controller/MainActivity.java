@@ -18,25 +18,9 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-    }
-
-
-    public void fun(View view) {
-
-        Intent func = new Intent(this, MenudoFuncionario.class);
-        startActivity(func);
-    }
-    public void aluno(View view) {
-
-        Intent aluno = new Intent(this, MenudoResponsavelPeloAluno.class);
-        startActivity(aluno);
-    }
-    public void responsavel(View view) {
-
-        Intent responsavel = new Intent(this, MenudoFuncionario.class);
-        startActivity(responsavel);
-    }
 
     }
+}
+
 
 

@@ -12,6 +12,7 @@ public class Aluno {
     private String telefone;
     private String email;
     private String senha;
+    private String sessionToken;
 
     public Aluno() {
     }
@@ -90,6 +91,13 @@ public class Aluno {
     public void setSenha(String senha) {
         this.senha = senha;
     }
+    public String getSessionToken() {
+        return sessionToken;
+    }
+
+    public void setSessionToken(String sessionToken) {
+        this.sessionToken = sessionToken;
+    }
 
 
     @Override
@@ -97,7 +105,7 @@ public class Aluno {
         return "Email: " + email;
     }
 
-    public static final class aluno {
+    public static final class Alunos {
 
         public final static String _ID = "id";
         public final static String EMAIL = "email";

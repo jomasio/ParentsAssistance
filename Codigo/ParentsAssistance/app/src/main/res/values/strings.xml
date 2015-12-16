@@ -12,5 +12,6 @@
     <string name="title_activity_disciplina">Cadastro de disciplina</string>
     <string name="name">Nome</string>
     <string name="sair">Sair</string>
+    <string name="matriculadoaluno">MATRÍCULA DO ALUNO</string>
 
 </resources>

@@ -46,23 +46,38 @@
                 android:label="@string/app_name">
             </activity>
             <activity
-                android:name=".controller.Loginresponsavelpeloaluno"
+                android:name=".controller.LoginresponsavelpeloalunoActivity"
                 android:label="@string/app_name">
             </activity>
             <activity
-                android:name=".controller.MenuFuncioanrio"
+                android:name=".controller.MenuFuncioanrioActivity"
                 android:label="@string/app_name">
             </activity>
             <activity
-                android:name=".controller.MenuResponsavelPeloAluno"
+                android:name=".controller.MenuResponsavelPeloAlunoActivity"
                 android:label="@string/app_name">
             </activity>
             <activity
-                android:name=".controller.visualizaçaodeAtividadeExtraescolar"
+                android:name=".controller.ListaAtividadeExtraescolarActivity"
                 android:label="@string/app_name">
             </activity>
 
-
+            <activity
+                android:name=".PA.controller.ListafuncionarioActivity"
+                android:label="@string/app_name">
+            </activity>
+            <activity
+                android:name=".PA.controller.ListaAlunoActivity"
+                android:label="@string/app_name">
+            </activity>
+            <activity
+                android:name=".PA.controller.ListaDisciplinaActivity"
+                android:label="@string/app_name">
+            </activity>
+            <activity
+                android:name=".PA.controller.ListaResponsavelPeloAlunoActivity"
+                android:label="@string/app_name">
+            </activity>
 
 
         </activity>

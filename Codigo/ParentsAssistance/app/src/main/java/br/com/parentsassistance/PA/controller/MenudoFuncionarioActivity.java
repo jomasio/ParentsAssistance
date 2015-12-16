@@ -8,11 +8,11 @@ import br.com.parentsassistance.R;
 /**
  * Created by Robinson on 25/11/2015.
  */
-public class CadastrodeAtividadeExtraescolar extends Activity {
+public class MenudoFuncionarioActivity extends Activity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main);
+        setContentView(R.layout.MenudoFuncionario);
 
     }
 }

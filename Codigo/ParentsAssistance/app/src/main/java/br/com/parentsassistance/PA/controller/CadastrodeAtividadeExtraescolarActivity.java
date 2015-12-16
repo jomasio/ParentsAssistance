@@ -8,11 +8,11 @@ import br.com.parentsassistance.R;
 /**
  * Created by Robinson on 25/11/2015.
  */
-public class CadastrodeResponsavelPeloAaluno extends Activity {
+public class CadastrodeAtividadeExtraescolarActivity extends Activity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main);
+        setContentView(R.layout.CadastrodeAtividadeExtraescolar);
 
     }
 }
